@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build . -t ubuntu:22.04-huaweicloud
+docker build . -t ubuntu:20.04-huaweicloud
